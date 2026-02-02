@@ -22,10 +22,10 @@ L’entreprise veut 4 réseaux distincts, chacun avec un rôle précis :
 
 | VLAN            | Nom             | Rôle                           |
 | --------------- | --------------- | ------------------------------ |
-| VLAN ADMIN      | Administrateurs | Gestion du réseau, serveurs    |
-| VLAN PERSONNEL  | Employés        | Postes de travail              |
-| VLAN PRODUCTION | Usine           | Machines industrielles         |
-| VLAN VIDEO      | Vidéo           | Flux vidéo internes            |
+| VLAN 10         | Administrateurs | Gestion du réseau, serveurs    |
+| VLAN 20         | Employés        | Postes de travail              |
+| VLAN 30         | Usine           | Machines industrielles         |
+| VLAN 40         | Vidéo           | Flux vidéo internes            |
 | VLAN 800        | Internet        | Accès Internet (déjà existant) |
 
 **Important :** 
