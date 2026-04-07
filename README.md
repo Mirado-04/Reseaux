@@ -62,7 +62,7 @@ On vas donc ce retrouver avec par exemple :
 VLAN ADMIN : 192.168.10.0 /24
 VLAN PERSONNEL : 192.168.20.0 /24
 
-**La partie TEST **
+**La partie TEST**
 
 
 On réalise ensuite donc les schémas réseaux pour ces quatres entreprises avec Cisco PKT avec évidemment les notation mises au dessus au préalable.
