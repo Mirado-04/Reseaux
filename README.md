@@ -35,7 +35,7 @@ Le routage inter-VLAN doit être assuré par le routeur
 
 Les services réseau à mettre en place pour ces entreprises :
 
-**On aura donc : **
+**On aura donc :**
 _DHP_ -> Installé sur le routeur
        Fournit automatiquement des adresses IP aux machines
 
