@@ -46,7 +46,7 @@ _Sevreur Web_ -> Situé dans le VLAN ADMIN
                Page web statique présentant l’entreprise
 
 
-**le plus important : le plan d’adressage IPv4 :**
+**le plus important :**
 
 
 **Attribuer :**
