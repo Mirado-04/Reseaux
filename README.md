@@ -1,6 +1,6 @@
 _Conceptualistaion clair et précise du Projet SAE 1.02_
 
-**Objectif Global du Projet** : concevoir, simuler et mettre en place un réseau informatique complet pour une petite entreprise, comme si on travaillais dans un bureau d’étude en Réseaux & Télécoms.
+**Objectif Global du Projet** : concevoir, simuler et mettre en place un réseau informatique complet pour une petite entreprise, comme si on travaillait dans un bureau d’étude en Réseaux & Télécoms.
  
  Le but est de montrer que l'on sait : 
 
